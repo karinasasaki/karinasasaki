@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**karinasasaki/karinasasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi! I'm Karina Sasaki 👋
 
-Here are some ideas to get you started:
+  <img width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasasaki&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Main skills:
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+
+  ### Studying in this moment:
+  ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+</div>
