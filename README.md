@@ -1,9 +1,8 @@
 ## About me
 
 👩‍💻 Software Developer at Nuti  
-👩‍🎓 Currently studying Analisys and Development System  
+👩‍🎓 Analysis and systems development student  
 🐱 Cat person  
-
 <br>
 
 <img align="right" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasasaki&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
