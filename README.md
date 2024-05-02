@@ -1,8 +1,8 @@
 ## About me
 
-- 👩‍💻 Software Developer at Nuti
-- 👩‍🎓 Currently studying Analisys and Development System
-- 🐱 Cat person
+👩‍💻 Software Developer at Nuti  
+👩‍🎓 Currently studying Analisys and Development System  
+🐱 Cat person  
 
 <br>
 
