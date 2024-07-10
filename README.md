@@ -1,7 +1,7 @@
 ## About me
 
 👩‍💻 Software Developer at Nuti  
-👩‍🎓 Analysis and systems development student  
+👩‍🎓 Systems Analysis and Development student  
 🐱 Cat person  
 <br>
 
