@@ -1,19 +1,30 @@
+<img width="10%" height="auto" src="https://github.com/user-attachments/assets/41cca196-a673-4c88-b4f5-c57b29c4087e"/>
+
 ## About me
-
-👩‍💻 Software Developer at Nuti  
-👩‍🎓 Systems Analysis and Development student  
-🐱 Cat person  
-<br>
-
-<img align="right" width="40%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasasaki&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/>
+- Software Developer at Nuti  
+- Systems Analysis and Development student  
+- Cat person  
 
 ### Technologies I've worked with:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![jQuery](	https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;
+[![HTML](https://img.shields.io/badge/HTML-4A5283.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-4A5283?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-4A5283?logo=javascript&logoColor=fff)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-4A5283?logo=jquery&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-4A5283.svg?logo=react&logoColor=fff)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-4A5283?logo=next.js&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-4A5283.svg?&logo=Canva&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-4A5283?logo=figma&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-4A5283?logo=bootstrap&logoColor=fff)](#)  
+[![Java](https://img.shields.io/badge/Java-4A5283.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4A5283?logo=springboot&logoColor=fff)](#)
+[![Ruby](https://img.shields.io/badge/Ruby-4A5283.svg?&logo=ruby&logoColor=white)](#)
+[![Rails](https://img.shields.io/badge/Rails-4A5283.svg?logo=ruby-on-rails&logoColor=white)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-4A5283?logo=oracle&logoColor=fff)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-4A5283.svg?logo=postgresql&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-4A5283?logo=docker&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-4A5283?logo=git&logoColor=fff)](#)
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinasasaki&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117"/> -->
 
 <!-- ### Studying in this moment:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp; -->
