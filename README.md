@@ -1,7 +1,7 @@
 <img width="10%" height="auto" src="https://github.com/user-attachments/assets/41cca196-a673-4c88-b4f5-c57b29c4087e"/>
 
 ## About me
-- Software Developer at Nuti  
+- Backend Developer at Datum TI  
 - Systems Analysis and Development student  
 - Cat person  
 
